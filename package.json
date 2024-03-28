@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "console-emoji": "^0.0.2",
+    "figlet": "^1.7.0",
+    "request": "^2.88.2"
+  },
+  "name": "xvid-ihwal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
